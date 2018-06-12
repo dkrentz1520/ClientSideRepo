@@ -8,4 +8,4 @@ git push -u origin master
 git remote add origin https://github.com/dkrentz1520/ServerSideRepo.git
 git push -u origin master
 
-add a change for test purposes
+this is the bug fix branch
